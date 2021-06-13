@@ -69,6 +69,16 @@ http://tv.nstvlatino.com:8080/cuin/1234/4003
 http://tv.nstvlatino.com:8080/cuin/1234/4017
 #EXTINF:-1,CINE - HBO MUNDI
 http://tv.nstvlatino.com:8080/cuin/1234/44337
+#EXTINF:-1,Dragon Ball Z - Saga Cell
+http://budtvlight.com:25461/pepe/1234/2339
+#EXTINF:-1,Dragon Ball Z - Saga de Freezer
+http://budtvlight.com:25461/pepe/1234/2340
+#EXTINF:-1,Dragon Ball Z - Saga Majin Boo
+http://budtvlight.com:25461/pepe/1234/2341
+#EXTINF:-1,Harry Potter
+http://budtvlight.com:25461/pepe/1234/2350
+#EXTINF:-1,Hora de Aventura
+http://budtvlight.com:25461/pepe/1234/2351
 #EXTINF:-1,CINE - HBO SIGNATURE
 #EXTINF:-1,Aliens vs. Predator 2 (2007)
 http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4

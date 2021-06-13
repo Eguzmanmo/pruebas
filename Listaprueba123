@@ -37,73 +37,6 @@ http://tv.nstvlatino.com:8080/cuin/1234/3774
 http://tv.nstvlatino.com:8080/cuin/1234/3270
 #EXTINF:-1,MyC - RT ESPAÑOL
 http://tv.nstvlatino.com:8080/cuin/1234/2064
-#EXTINF:-1,LD - BEIN SPORTS Ñ HD
-http://tv.nstvlatino.com:8080/cuin/1234/3747
-#EXTINF:-1,LD - BEIN SPORTS SD
-http://tv.nstvlatino.com:8080/cuin/1234/43187
-#EXTINF:-1,LD - DIRECTV SPORTS FHD
-http://tv.nstvlatino.com:8080/cuin/1234/1091366
-#EXTINF:-1,LD - DIRECTV SPORTS HD
-http://tv.nstvlatino.com:8080/cuin/1234/7863
-#EXTINF:-1,LD - DIRECTV SPORTS SD
-http://tv.nstvlatino.com:8080/cuin/1234/33512
-#EXTINF:-1,LD - DIRECTV SPORTS 2 FHD
-http://tv.nstvlatino.com:8080/cuin/1234/1091367
-#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
-http://tv.nstvlatino.com:8080/cuin/1234/32882
-#EXTINF:-1,LD - DIRECTV SPORTS 2 SD
-http://tv.nstvlatino.com:8080/cuin/1234/32881
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS FHD
-http://tv.nstvlatino.com:8080/cuin/1234/1091368
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
-http://tv.nstvlatino.com:8080/cuin/1234/27879
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS SD
-http://tv.nstvlatino.com:8080/cuin/1234/8520
-#EXTINF:-1,LD - FOX DEPORTES USA HD
-http://tv.nstvlatino.com:8080/cuin/1234/3753
-#EXTINF:-1,LD - FOX SPORTS 1 SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/3612
-#EXTINF:-1,LD - FOX SPORTS 1 SUR
-http://tv.nstvlatino.com:8080/cuin/1234/18580
-#EXTINF:-1,LD - FOX SPORTS 2 SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/16139
-#EXTINF:-1,LD - FOX SPORTS 2 SUR SD
-http://tv.nstvlatino.com:8080/cuin/1234/42456
-#EXTINF:-1,LD - FOX SPORTS 3 SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/33475
-#EXTINF:-1,LD - FOX SPORTS 3 SUR SD
-http://tv.nstvlatino.com:8080/cuin/1234/43640
-#EXTINF:-1,LD - FOX SPORTS MX
-http://tv.nstvlatino.com:8080/cuin/1234/3267
-#EXTINF:-1,LD - FOX SPORTS 2 MX
-http://tv.nstvlatino.com:8080/cuin/1234/3268
-#EXTINF:-1,LD - FOX SPORTS 3 MX
-http://tv.nstvlatino.com:8080/cuin/1234/4008
-#EXTINF:-1,LD - ESPN DEPORTES HD
-http://tv.nstvlatino.com:8080/cuin/1234/3613
-#EXTINF:-1,LD - ESPN 1 SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/3614
-#EXTINF:-1,LD - ESPN 1 SUR SD
-http://tv.nstvlatino.com:8080/cuin/1234/33469
-#EXTINF:-1,LD - ESPN 2 SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/43637
-#EXTINF:-1,LD - ESPN 2 SUR SD
-http://tv.nstvlatino.com:8080/cuin/1234/3616
-#EXTINF:-1,LD - ESPN 2 HD CH
-http://tv.nstvlatino.com:8080/cuin/1234/1080110
-#EXTINF:-1,LD - ESPN 2 SD CH
-http://tv.nstvlatino.com:8080/cuin/1234/1080111
-#EXTINF:-1,LD - ESPN 3 SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/3615
-#EXTINF:-1,LD - ESPN 3 SUR SD
-http://tv.nstvlatino.com:8080/cuin/1234/43639
-#EXTINF:-1,LD - ESPN EXTRA SUR FHD
-http://tv.nstvlatino.com:8080/cuin/1234/7940
-#EXTINF:-1,LD - ESPN EXTRA SUR HD
-http://tv.nstvlatino.com:8080/cuin/1234/43638
-#EXTINF:-1,LD - ESPN MX
-http://tv.nstvlatino.com:8080/cuin/1234/3178
-#EXTINF:-1,LD - ESPN 2 MX
 http://tv.nstvlatino.com:8080/cuin/1234/3258
 #EXTINF:-1,LD - ESPN 3 MX
 http://tv.nstvlatino.com:8080/cuin/1234/3260
@@ -206,16 +139,11 @@ http://tv.nstvlatino.com:8080/cuin/1234/4017
 #EXTINF:-1,CINE - HBO MUNDI
 http://tv.nstvlatino.com:8080/cuin/1234/44337
 #EXTINF:-1,CINE - HBO SIGNATURE
-http://tv.nstvlatino.com:8080/cuin/1234/3197
-#EXTINF:-1,CINE - I-SAT
-http://tv.nstvlatino.com:8080/cuin/1234/3074
-#EXTINF:-1,CINE - MORBID TV
-http://tv.nstvlatino.com:8080/cuin/1234/33364
-#EXTINF:-1,CINE - PANICO TV HD
-http://tv.nstvlatino.com:8080/cuin/1234/7436
-#EXTINF:-1,CINE - PARAMOUNT CHANNEL
-http://tv.nstvlatino.com:8080/cuin/1234/2952
-#EXTINF:-1,CINE - SONY
-http://tv.nstvlatino.com:8080/cuin/1234/3069
-#EXTINF:-1,CINE - SPACE
-http://tv.nstvlatino.com:8080/cuin/1234/3232
+#EXTINF:-1,Aliens vs. Predator 2 (2007)
+http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4
+#EXTINF:-1,25/7 - Malcolm
+http://tv.nstvlatino.com:8080/cuin/1234/44818
+#EXTINF:-1,24/7 - CINEMA DISNEY PIXAR
+http://tv.nstvlatino.com:8080/cuin/1234/1085952
+#EXTINF:-1,Harry Potter y la Orden del Fénix (2007)
+http://tv.nstvlatino.com:8080/movie/cuin/1234/1091796.mp4

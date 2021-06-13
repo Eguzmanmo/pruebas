@@ -141,7 +141,7 @@ http://tv.nstvlatino.com:8080/cuin/1234/44337
 #EXTINF:-1,CINE - HBO SIGNATURE
 #EXTINF:-1,Aliens vs. Predator 2 (2007)
 http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4
-#EXTINF:-1,25/7 - Malcolm
+#EXTINF:999,25/7 - Malcolm
 http://tv.nstvlatino.com:8080/cuin/1234/44818
 #EXTINF:-1,24/7 - CINEMA DISNEY PIXAR
 http://tv.nstvlatino.com:8080/cuin/1234/1085952

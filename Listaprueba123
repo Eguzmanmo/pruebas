@@ -1,36 +1,16 @@
 #EXTM3U
-#EXTINF:-1,LD - TUDN FHD
-http://tv.nstvlatino.com:8080/cuin/1234/3963
-#EXTINF:-1,LD - TYC SPORTS HD
-http://tv.nstvlatino.com:8080/cuin/1234/3759
-#EXTINF:-1,LD - TYC SPORTS
-http://tv.nstvlatino.com:8080/cuin/1234/8247
-#EXTINF:-1,LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.nstvlatino.com:8080/cuin/1234/29832
-#EXTINF:-1,LD - GOL TV FHD
-http://tv.nstvlatino.com:8080/cuin/1234/1092639
-#EXTINF:-1,LD - GOL TV HD
-http://tv.nstvlatino.com:8080/cuin/1234/3755
-#EXTINF:-1,LD - CLARO SPORTS HD
-http://tv.nstvlatino.com:8080/cuin/1234/12011
-#EXTINF:-1,LD - UFC  NETWORK FHD
-http://tv.nstvlatino.com:8080/cuin/1234/4082
-#EXTINF:-1,LD - UFC FIGHT LATINOAMERICA
-http://tv.nstvlatino.com:8080/cuin/1234/3421
-#EXTINF:-1,LD - GOLF LATIN AMERICA
-http://tv.nstvlatino.com:8080/cuin/1234/33363
-#EXTINF:-1,LD - AYM SPORTS
-http://tv.nstvlatino.com:8080/cuin/1234/3089
-#EXTINF:-1,LD - UFC LIVE HD
-http://tv.nstvlatino.com:8080/cuin/1234/53372
-#EXTINF:-1,LD - TVC DEPORTES
-http://tv.nstvlatino.com:8080/cuin/1234/4139
-#EXTINF:-1,LD - DAZN 1 (TEST)
-http://tv.nstvlatino.com:8080/cuin/1234/53380
-#EXTINF:-1,CINE - A&E
-http://tv.nstvlatino.com:8080/cuin/1234/3246
-#EXTINF:-1,CINE - AMC
-http://tv.nstvlatino.com:8080/cuin/1234/4118
+#EXTINF:-1,Cinemax
+http://budtvlight.com:25461/pepe/1234/1468
+#EXTINF:-1,De Pelicula Clasico
+http://budtvlight.com:25461/pepe/1234/1469
+#EXTINF:-1,De Pelicula Plus
+http://budtvlight.com:25461/pepe/1234/1470
+#EXTINF:-1,Golden
+http://budtvlight.com:25461/pepe/1234/1471
+#EXTINF:-1,Golden Edge
+http://budtvlight.com:25461/pepe/1234/1472
+#EXTINF:-1,Golden Plus
+http://budtvlight.com:25461/pepe/1234/1473
 #EXTINF:-1,CINE - AXN
 http://tv.nstvlatino.com:8080/cuin/1234/3248
 #EXTINF:-1,CINE - CINE LATINO

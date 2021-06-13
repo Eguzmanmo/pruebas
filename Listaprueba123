@@ -1,53 +1,4 @@
-#EXTM3U8
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.nstvlatino.com:8080/cuin/1234/3247
-#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
-http://tv.nstvlatino.com:8080/cuin/1234/3083
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
-http://tv.nstvlatino.com:8080/cuin/1234/3251
-#EXTINF:-1,MyC - HGTV
-http://tv.nstvlatino.com:8080/cuin/1234/3252
-#EXTINF:-1,MyC - DISCOVERY ID
-http://tv.nstvlatino.com:8080/cuin/1234/4123
-#EXTINF:-1,MyC - DISCOVERY SCIENCE
-http://tv.nstvlatino.com:8080/cuin/1234/3082
-#EXTINF:-1,MyC - DISCOVERY THEATER
-http://tv.nstvlatino.com:8080/cuin/1234/4119
-#EXTINF:-1,MyC - DISCOVERY TLC
-http://tv.nstvlatino.com:8080/cuin/1234/3256
-#EXTINF:-1,MyC - DISCOVERY WORLD
-http://tv.nstvlatino.com:8080/cuin/1234/3081
-#EXTINF:-1,MyC - DW LATINOAMERICA
-http://tv.nstvlatino.com:8080/cuin/1234/2102
-#EXTINF:-1,MyC - FILM & ARTS
-http://tv.nstvlatino.com:8080/cuin/1234/3966
-#EXTINF:-1,MyC - FRANCE 24
-http://tv.nstvlatino.com:8080/cuin/1234/33357
-#EXTINF:-1,MyC - H2
-http://tv.nstvlatino.com:8080/cuin/1234/4005
-#EXTINF:-1,MyC - HISPAN TV
-http://tv.nstvlatino.com:8080/cuin/1234/33481
-#EXTINF:-1,MyC - HISTORY
-http://tv.nstvlatino.com:8080/cuin/1234/3234
-#EXTINF:-1,MyC - NATGEO
-http://tv.nstvlatino.com:8080/cuin/1234/4126
-#EXTINF:-1,MyC - NATGEO MUNDO
-http://tv.nstvlatino.com:8080/cuin/1234/3774
-#EXTINF:-1,MyC - NATGEO WILD
-http://tv.nstvlatino.com:8080/cuin/1234/3270
-#EXTINF:-1,MyC - RT ESPAÑOL
-http://tv.nstvlatino.com:8080/cuin/1234/2064
-http://tv.nstvlatino.com:8080/cuin/1234/3258
-#EXTINF:-1,LD - ESPN 3 MX
-http://tv.nstvlatino.com:8080/cuin/1234/3260
-#EXTINF:-1,LD - ESPN PLUS MX
-http://tv.nstvlatino.com:8080/cuin/1234/4120
-#EXTINF:-1,LD - UNIVISION TUDN USA
-http://tv.nstvlatino.com:8080/cuin/1234/3751
-#EXTINF:-1,LD - UNIVISION DEPORTES FHD
-http://tv.nstvlatino.com:8080/cuin/1234/3962
-#EXTINF:-1,LD - UNIVISION TUDN HD
-http://tv.nstvlatino.com:8080/cuin/1234/4117
+#EXTM3U
 #EXTINF:-1,LD - TUDN FHD
 http://tv.nstvlatino.com:8080/cuin/1234/3963
 #EXTINF:-1,LD - TYC SPORTS HD
@@ -141,7 +92,7 @@ http://tv.nstvlatino.com:8080/cuin/1234/44337
 #EXTINF:-1,CINE - HBO SIGNATURE
 #EXTINF:-1,Aliens vs. Predator 2 (2007)
 http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4
-#EXTINF:999,25/7 - Malcolm
+#EXTINF:0,25/7 - Malcolm
 http://tv.nstvlatino.com:8080/cuin/1234/44818
 #EXTINF:-1,24/7 - CINEMA DISNEY PIXAR
 http://tv.nstvlatino.com:8080/cuin/1234/1085952

@@ -1,3 +1,97 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX *FHD
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/803
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX ACTION *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/851
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX WEST *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/849
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",COMEDY CENTRAL *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/799
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",DEPELICULA *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/800
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",DEPELICULA PLUS *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/801
+#EXTINF:-1,AMC
+http://budtvlight.com:25461/pepe/1234/1466
+#EXTINF:-1,Cine Latino
+http://budtvlight.com:25461/pepe/1234/1467
+#EXTINF:-1,Cinemax
+http://budtvlight.com:25461/pepe/1234/1468
+#EXTINF:-1,De Pelicula Clasico
+http://budtvlight.com:25461/pepe/1234/1469
+#EXTINF:-1,De Pelicula Plus
+http://budtvlight.com:25461/pepe/1234/1470
+#EXTINF:-1,Golden
+http://budtvlight.com:25461/pepe/1234/1471
+#EXTINF:-1,Golden Edge
+http://budtvlight.com:25461/pepe/1234/1472
+#EXTINF:-1,Golden Plus
+http://budtvlight.com:25461/pepe/1234/1473
+#EXTINF:-1,HBO Family
+http://budtvlight.com:25461/pepe/1234/1474
+#EXTINF:-1,Max
+http://budtvlight.com:25461/pepe/1234/1475
+#EXTINF:-1,MAX UP
+http://budtvlight.com:25461/pepe/1234/1476
+#EXTINF:-1,Max Prime
+http://budtvlight.com:25461/pepe/1234/1477
+#EXTINF:-1,Morbido
+http://budtvlight.com:25461/pepe/1234/1478
+#EXTINF:-1,Sundance Tv
+http://budtvlight.com:25461/pepe/1234/1479
+#EXTINF:-1,Animal Planet
+http://budtvlight.com:25461/pepe/1234/1480
+#EXTINF:-1,129_CANAL-E206
+http://budtvlight.com:25461/pepe/1234/3068
+#EXTINF:-1,130_CANAL-FX207
+http://budtvlight.com:25461/pepe/1234/3102
+#EXTINF:-1,131_CANAL-UNIVERSAL208
+http://budtvlight.com:25461/pepe/1234/3103
+#EXTINF:-1,132_CANAL-AXN213
+http://budtvlight.com:25461/pepe/1234/3104
+#EXTINF:-1,133_CANAL-AyE-215
+http://budtvlight.com:25461/pepe/1234/3128
+#EXTINF:-1,Anatomia de Grey
+http://budtvlight.com:25461/pepe/1234/2323
+#EXTINF:-1,Star Wars
+http://budtvlight.com:25461/pepe/1234/2400
+#EXTINF:-1,Super Campeones
+http://budtvlight.com:25461/pepe/1234/2401
+#EXTINF:-1,Caballeros del Zodiaco
+http://budtvlight.com:25461/pepe/1234/2330
+#EXTINF:-1,Caballeros del Zodiaco Hades & Alma de oro
+http://budtvlight.com:25461/pepe/1234/2331
+#EXTINF:-1,Una familia de Diez
+http://budtvlight.com:25461/pepe/1234/2406
+#EXTINF:-1,Universo DC
+http://budtvlight.com:25461/pepe/1234/2407
+#EXTINF:-1,Universo Marvel
+http://budtvlight.com:25461/pepe/1234/2408
+#EXTINF:-1,Dragon Ball Z - Saga Cell
+http://budtvlight.com:25461/pepe/1234/2339
+#EXTINF:-1,Dragon Ball Z - Saga de Freezer
+http://budtvlight.com:25461/pepe/1234/2340
+#EXTINF:-1,Dragon Ball Z - Saga Majin Boo
+http://budtvlight.com:25461/pepe/1234/2341
+#EXTINF:-1,Harry Potter
+http://budtvlight.com:25461/pepe/1234/2350
+#EXTINF:-1,Aliens vs. Predator 2 (2007)
+http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4
+#EXTINF:500 tvg-id="m3u" group-title="CANALES 24/7",24 HORAS | DBZ Saga de Babidi y Majin Bu
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29065
+#EXTINF:500 tvg-id="m3u8" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Cell
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29063
+#EXTINF:0 tvg-id="m3u" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Freezer
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/28912
+#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Garlick Junior
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29040
+#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga de La Fusion y Kid Bu
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29066
+#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Los Androides
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29042
+#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga de los Saiyajin
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/28560
+#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Namekusei
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/28911
+#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga Del Torneo Del Otro Mundo y Saiyaman
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29064

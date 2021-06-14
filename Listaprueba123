@@ -1,16 +1,186 @@
 #EXTM3U
-#EXTINF:-1,Cinemax
-http://budtvlight.com:25461/pepe/1234/1468
-#EXTINF:-1,De Pelicula Clasico
-http://budtvlight.com:25461/pepe/1234/1469
-#EXTINF:-1,De Pelicula Plus
-http://budtvlight.com:25461/pepe/1234/1470
-#EXTINF:-1,Golden
-http://budtvlight.com:25461/pepe/1234/1471
-#EXTINF:-1,Golden Edge
-http://budtvlight.com:25461/pepe/1234/1472
-#EXTINF:-1,Golden Plus
-http://budtvlight.com:25461/pepe/1234/1473
+#EXTINF:-1,101_CANAL-ESTRELLAS
+http://budtvlight.com:25461/pepe/1234/2105
+#EXTINF:-1,104_CANAL-5
+http://budtvlight.com:25461/pepe/1234/2121
+#EXTINF:-1,102_CANAL-AZTECA7
+http://budtvlight.com:25461/pepe/1234/2122
+#EXTINF:-1,103_CANAL-MULTIMEDIOS
+http://budtvlight.com:25461/pepe/1234/2123
+#EXTINF:-1,105_CANAL6.3
+http://budtvlight.com:25461/pepe/1234/2124
+#EXTINF:-1,106_CANAL-7.3
+http://budtvlight.com:25461/pepe/1234/2125
+#EXTINF:-1,107_CANAL-TELEVISA-MTY
+http://budtvlight.com:25461/pepe/1234/2129
+#EXTINF:-1,108_CANAL-IMAGENTV103
+http://budtvlight.com:25461/pepe/1234/2133
+#EXTINF:-1,109_CANAL-A+108
+http://budtvlight.com:25461/pepe/1234/2134
+#EXTINF:-1,110_CANAL-AZTECAUNO101
+http://budtvlight.com:25461/pepe/1234/2135
+#EXTINF:-1,111_CANAL-ONCETV111
+http://budtvlight.com:25461/pepe/1234/2136
+#EXTINF:-1,112_CANAL-14-114
+http://budtvlight.com:25461/pepe/1234/2137
+#EXTINF:-1,113_CANAL-TVUNAM120
+http://budtvlight.com:25461/pepe/1234/2138
+#EXTINF:-1,114_CANAL-CANAL22-122
+http://budtvlight.com:25461/pepe/1234/2141
+#EXTINF:-1,115_CANAL-ADN40-140
+http://budtvlight.com:25461/pepe/1234/2146
+#EXTINF:-1,116_CANAL-22.2-148
+http://budtvlight.com:25461/pepe/1234/2151
+#EXTINF:-1,117_CANAL-MTV-151
+http://budtvlight.com:25461/pepe/1234/2155
+#EXTINF:-1,118_CANAL-TELEHITURBANO153
+http://budtvlight.com:25461/pepe/1234/2161
+#EXTINF:-1,119_CANAL-TELEHIT154
+http://budtvlight.com:25461/pepe/1234/2162
+#EXTINF:-1,MX | Star Action
+http://budtvlight.com:25461/pepe/1234/2444
+#EXTINF:-1,120_CANAL-BANDAMAX155
+http://budtvlight.com:25461/pepe/1234/2445
+#EXTINF:-1,121_CANAL-ESTRELLAS-2
+http://budtvlight.com:25461/pepe/1234/2446
+#EXTINF:-1,122_CANAL-FOROTV186
+http://budtvlight.com:25461/pepe/1234/2447
+#EXTINF:-1,123_CANAL-NUEVE189-1
+http://budtvlight.com:25461/pepe/1234/2448
+#EXTINF:-1,124_CANAL-FOX-201
+http://budtvlight.com:25461/pepe/1234/2449
+#EXTINF:-1,125_CANAL-SONY-202
+http://budtvlight.com:25461/pepe/1234/2450
+#EXTINF:-1,MX | Golf Channel
+http://budtvlight.com:25461/pepe/1234/2452
+#EXTINF:-1, MX | Espn Plus
+http://budtvlight.com:25461/pepe/1234/2798
+#EXTINF:-1,126-TUDN-512
+http://budtvlight.com:25461/pepe/1234/3064
+#EXTINF:-1,127-UNICABLE
+http://budtvlight.com:25461/pepe/1234/3066
+#EXTINF:-1,128_CANAL-WARNERBROS205
+http://budtvlight.com:25461/pepe/1234/3067
+#EXTINF:-1,129_CANAL-E206
+http://budtvlight.com:25461/pepe/1234/3068
+#EXTINF:-1,130_CANAL-FX207
+http://budtvlight.com:25461/pepe/1234/3102
+#EXTINF:-1,131_CANAL-UNIVERSAL208
+http://budtvlight.com:25461/pepe/1234/3103
+#EXTINF:-1,132_CANAL-AXN213
+http://budtvlight.com:25461/pepe/1234/3104
+#EXTINF:-1,133_CANAL-AyE-215
+http://budtvlight.com:25461/pepe/1234/3106
+#EXTINF:-1,134_CANAL-SYFY216
+http://budtvlight.com:25461/pepe/1234/3109
+#EXTINF:-1,135_CANAL-TRUTV219
+http://budtvlight.com:25461/pepe/1234/3110
+#EXTINF:-1,136_CANAL-FOXLIFE-220
+http://budtvlight.com:25461/pepe/1234/3111
+#EXTINF:-1,137_CANAL_BABYTV320
+http://budtvlight.com:25461/pepe/1234/3112
+#EXTINF:-1,138_CANAL-TELENOVELAS221
+http://budtvlight.com:25461/pepe/1234/3113
+#EXTINF:-1,139_CANAL-TNTSERIES-222
+http://budtvlight.com:25461/pepe/1234/3114
+#EXTINF:-1,140_CANAL-TELEMUNDOINT223
+http://budtvlight.com:25461/pepe/1234/3115
+#EXTINF:-1,141_CANAL-LIFETIME224
+http://budtvlight.com:25461/pepe/1234/3116
+#EXTINF:-1,142_CANAL-AZTECACORAZON225
+http://budtvlight.com:25461/pepe/1234/3117
+#EXTINF:-1,143_CANAL-HISTORY2
+http://budtvlight.com:25461/pepe/1234/3118
+#EXTINF:-1,144_CANAL-COMEDYCENTRAL230
+http://budtvlight.com:25461/pepe/1234/3119
+#EXTINF:-1,145_CANAL-TBS231
+http://budtvlight.com:25461/pepe/1234/3120
+#EXTINF:-1,146_CANAL-AZTECA UNO
+http://budtvlight.com:25461/pepe/1234/3121
+#EXTINF:-1,147_CANAL-NATIONALGEO254
+http://budtvlight.com:25461/pepe/1234/3122
+#EXTINF:-1,149_CANAL_WILD265
+http://budtvlight.com:25461/pepe/1234/3123
+#EXTINF:-1,150_CANAL_MARIAVISION260
+http://budtvlight.com:25461/pepe/1234/3124
+#EXTINF:-1,151_CANAL_ENLACE261
+http://budtvlight.com:25461/pepe/1234/3125
+#EXTINF:-1,152_CANAL_DISNEY302
+http://budtvlight.com:25461/pepe/1234/3126
+#EXTINF:-1,153_CANAL_DISNEYJR303
+http://budtvlight.com:25461/pepe/1234/3127
+#EXTINF:-1,154_CANAL_DISNEYXD304
+http://budtvlight.com:25461/pepe/1234/3128
+#EXTINF:-1,155_CANAL_NICK305
+http://budtvlight.com:25461/pepe/1234/3129
+#EXTINF:-1,156_CANAL_NICKJR308
+http://budtvlight.com:25461/pepe/1234/3130
+#EXTINF:-1,157_CANAL_BITME310
+http://budtvlight.com:25461/pepe/1234/3131
+#EXTINF:-1,158_CANAL_NATGEOKIDS314
+http://budtvlight.com:25461/pepe/1234/3132
+#EXTINF:-1,159_CANAL_CARTOONNETWORK315
+http://budtvlight.com:25461/pepe/1234/3133
+#EXTINF:-1,160_CANAL_BOMERANG316
+http://budtvlight.com:25461/pepe/1234/3134
+#EXTINF:-1,170_DEPELICULA-401
+http://budtvlight.com:25461/pepe/1234/3143
+#EXTINF:-1,171_PARAMOUNT-403
+http://budtvlight.com:25461/pepe/1234/3144
+#EXTINF:-1,172-GOLDEN_407
+http://budtvlight.com:25461/pepe/1234/3145
+#EXTINF:-1,173-EDGE_408
+http://budtvlight.com:25461/pepe/1234/3146
+#EXTINF:-1,174_CINECANAL-411
+http://budtvlight.com:25461/pepe/1234/3147
+#EXTINF:-1,175_STUDIOUNIVERSAL412
+http://budtvlight.com:25461/pepe/1234/3148
+#EXTINF:-1,176_TNT415
+http://budtvlight.com:25461/pepe/1234/3149
+#EXTINF:-1,177_CINEMEX-417
+http://budtvlight.com:25461/pepe/1234/3150
+#EXTINF:-1,178_SPACE-418
+http://budtvlight.com:25461/pepe/1234/3151
+#EXTINF:-1,179_FXN-419
+http://budtvlight.com:25461/pepe/1234/3152
+#EXTINF:-1,180_AZTECACINEMA-421
+http://budtvlight.com:25461/pepe/1234/3153
+#EXTINF:-1,181_FOXMOVIES-461
+http://budtvlight.com:25461/pepe/1234/3154
+#EXTINF:-1,182_FOXSERIES-462
+http://budtvlight.com:25461/pepe/1234/3155
+#EXTINF:-1,183_FOXFAMILY-463
+http://budtvlight.com:25461/pepe/1234/3156
+#EXTINF:-1,184_FOXCOMEDY-464
+http://budtvlight.com:25461/pepe/1234/3157
+#EXTINF:-1,185_ADRENALINA_508
+http://budtvlight.com:25461/pepe/1234/3158
+#EXTINF:-1,186_HBOPOP-457
+http://budtvlight.com:25461/pepe/1234/3159
+#EXTINF:-1,187_CNN_602
+http://budtvlight.com:25461/pepe/1234/3160
+#EXTINF:-1,188_MILENIO-603
+http://budtvlight.com:25461/pepe/1234/3161
+#EXTINF:-1,189_BLOOMERANG-604
+http://budtvlight.com:25461/pepe/1234/3162
+#EXTINF:-1,190_FOXNEWS-605
+http://budtvlight.com:25461/pepe/1234/3163
+#EXTINF:-1,191_NTR-644
+http://budtvlight.com:25461/pepe/1234/3164
+#EXTINF:-1,192_CANAL_FOXACTION
+http://budtvlight.com:25461/pepe/1234/3165
+#EXTINF:-1,193_ESPN-501
+http://budtvlight.com:25461/pepe/1234/3166
+#EXTINF:-1,195_ESPN3_503
+http://budtvlight.com:25461/pepe/1234/3168
+#EXTINF:-1,195_ESPN3_503-
+http://budtvlight.com:25461/pepe/1234/3169
+#EXTINF:-1,196_FOXSPORT_505
+http://budtvlight.com:25461/pepe/1234/3170
+#EXTINF:-1,196_FOXSPORT_505-
+http://budtvlight.com:25461/pepe/1234/3171
+#EXTINF:-1,197_FOXSPORT2-EVENTO_506
+http://budtvlight.com:25461/pepe/1234/3172
 #EXTINF:-1,Anatomia de Grey
 http://budtvlight.com:25461/pepe/1234/2323
 #EXTINF:-1,Star Wars
@@ -21,14 +191,6 @@ http://budtvlight.com:25461/pepe/1234/2401
 http://budtvlight.com:25461/pepe/1234/2330
 #EXTINF:-1,Caballeros del Zodiaco Hades & Alma de oro
 http://budtvlight.com:25461/pepe/1234/2331
-#EXTINF:-1,Suspenso
-http://budtvlight.com:25461/pepe/1234/2402
-#EXTINF:-1,The Big Bang Theory
-http://budtvlight.com:25461/pepe/1234/2403
-#EXTINF:-1,The Walking Dead
-http://budtvlight.com:25461/pepe/1234/2404
-#EXTINF:-1,Un Show Mas
-http://budtvlight.com:25461/pepe/1234/2405
 #EXTINF:-1,Una familia de Diez
 http://budtvlight.com:25461/pepe/1234/2406
 #EXTINF:-1,Universo DC
@@ -43,17 +205,9 @@ http://budtvlight.com:25461/pepe/1234/2340
 http://budtvlight.com:25461/pepe/1234/2341
 #EXTINF:-1,Harry Potter
 http://budtvlight.com:25461/pepe/1234/2350
-#EXTINF:-1,Hora de Aventura
-http://budtvlight.com:25461/pepe/1234/2351
-#EXTINF:-1,HBO PLUS
-http://011011011.com:8080/123456/654321/161151
 #EXTINF:-1,Aliens vs. Predator 2 (2007)
 http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4
-ext,LAT: JURASSIC PARK,http://011011011.com:8080/123456/654321/181786
-ext,LAT:  Avengers,http://011011011.com:8080/123456/654321/181802
-ext,LAT: HBO  EAST,http://011011011.com:8080/123456/654321/161108
-ext,LAT: HBO  WEST,http://011011011.com:8080/123456/654321/161113
-HBO2.mx,LAT: HBO 2,http://011011011.com:8080/123456/654321/161158
+
 
 
 

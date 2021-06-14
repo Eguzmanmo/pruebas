@@ -86,7 +86,7 @@ http://tv.nstvlatino.com:8080/movie/cuin/1234/1089291.mp4
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/29065
 #EXTINF:-1 tvg-id="m3u8" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Cell
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/29063
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Freezer
+#EXTINF:0 tvg-id="m3u" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Freezer
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/28912
 #EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Garlick Junior
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/29040

@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/803
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX ACTION *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/851
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX WEST *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/849
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",COMEDY CENTRAL *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/799
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",DEPELICULA *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/800
+#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",DEPELICULA PLUS *FHD
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/801
 #EXTINF:-1,AMC
 http://budtvlight.com:25461/pepe/1234/1466
 #EXTINF:-1,Cine Latino

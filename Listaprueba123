@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="CINEMA | FHD",CINEMAX *FHD
-http://xdgo.live:8080/susana1960/RkQhgxE2PH/803
-#EXTINF:-1 group-title="CINEMA | FHD",CINEMAX ACTION *FHD
+
+#EXTINF:1000 group-title="CINEMA | FHD",CINEMAX ACTION *FHD
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/851
-#EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",CINEMAX WEST *FHD
+
+#EXTINF:600 group-title="CINEMA | FHD",CINEMAX WEST *FHD
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/849
 #EXTINF:0 tvg-id="ext" group-title="CINEMA | FHD",COMEDY CENTRAL *FHD
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/799

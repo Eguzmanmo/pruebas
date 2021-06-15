@@ -1,11 +1,187 @@
 #EXTM3U
 
-#EXTINF:-1,Universo Marvel
-http://budtvlight.com:25461/pepe/1234/2408
-#EXTINF:-1,Dragon Ball Z - Saga Cell
-http://budtvlight.com:25461/pepe/1234/2339
-#EXTINF:-1,Dragon Ball Z - Saga de Freezer
-http://budtvlight.com:25461/pepe/1234/2340
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Anatomia de Grey (e)(720)" tvg-logo="https://1.bp.blogspot.com/-Nsm0CMIgxgk/XucJrckDIwI/AAAAAAAACFs/bVzt2D2uHo8CkJbhJ-vuzOT5cNHarEPswCLcBGAsYHQ/s200/Greys%2BAnatomy.png" group-title="24/7 SERIES",24/7 Anatomia de Grey (e)(720)
-http://tv.mediaxyz1.com:25461/alfrepv1994/aTN1fm1mt2/37927
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",A&E *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29582
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",A3 SERIES *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29659
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",AMC *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29583
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ANIMAL PLANET *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29616
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",AXN *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29584
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",BABY TV *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29585
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",BOOMERANG *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29586
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",CARTOON NETWORK *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29575
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",CINECANAL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29587
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",CINEMAX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29617
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",CNN EN ESPAÑOL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29619
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",CNN INTERNACIONAL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29620
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",COMEDY CENTRAL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29588
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY CHANNEL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29589
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY CIVILIZATION *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29621
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY H&H *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29590
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY ID *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29615
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY KIDS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29622
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY SCIENCE *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29623
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY THEATER *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29645
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY TURBO *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29614
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISCOVERY WORLD *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29624
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISNEY CHANNEL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29591
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISNEY JR *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29592
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DISNEY XD *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29593
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",DW *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29625
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",E! ENTERTAINMENT *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29626
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ESPN + *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29679
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ESPN MX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29683
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ESPN 2 MX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29684
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ESPN 2 SUR *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29596
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ESPN 3 MX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29680
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",EUROPA EUROPA *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29627
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FILM ARTS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29628
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOOD NETWORK *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29652
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR CHANNEL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29580
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR LIFE *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29653
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOX NEWS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29630
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR ACTION *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29599
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR CINEMA *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29600
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR CLASSICS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29601
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR COMEDY *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29602
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR FUN *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29603
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR HITS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29604
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STAR SERIES *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29598
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOX SPORTS 1 MX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29681
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOX SPORTS 2 AR *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29605
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOX SPORTS 2 MX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29682
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOX SPORTS 3 AR *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29606
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FOX SPORTS PREMIUM *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29665
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FXM *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29597
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",FX *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29607
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",GOURMET *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29608
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",H2 *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29631
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29574
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO + *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29650
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO 2 *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29648
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO FAMILY *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29649
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO MUNDI *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29635
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO POP *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29661
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO SIGNATURE *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29651
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HBO XTREME *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29636
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HISTORY *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29612
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",HOLA TV *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29660
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",ISAT *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29633
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",LIFETIME *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29629
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",MAS CHIC *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29634
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",MTV *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29637
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",MTV HITS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29656
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",NAT GEO *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29611
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",NAT GEO KIDS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29663
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",NAT GEO WILD *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29610
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",NICK *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29667
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",NICK JR *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29639
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",PARAMOUNT *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29640
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",SONY *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29581
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",SPACE *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29573
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",STUDIO UNIVERSAL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29641
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",SYFY *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29642
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TBS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29643
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TCM *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29644
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TELEMUNDO *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29669
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TLC *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29657
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TNT *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29668
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TNT SERIES *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29613
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TNT SPORTS AR *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29664
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TOONCAST *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29646
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",TRUTV *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29579
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",UNIVERSAL CHANNEL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29647
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",VH1 *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29658
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",VH1 MEGAHITS *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29655
+#EXTINF:0 tvg-id="ext" group-title="CANALES LITE",WARNER CHANNEL *LQ
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29609
 

@@ -29,5 +29,5 @@ http://tv.mediaxyz1.com:25461/movie/alfrepv1994/aTN1fm1mt2/87994.mkv
 http://tv.mediaxyz1.com:25461/movie/alfrepv1994/aTN1fm1mt2/87995.mkv
 #EXTINF:0 tvg-id="avi" group-title="VOD ESTRENOS",Fast & Furious 9  (2021)
 http://xdgo.live:8080/movie/susana1960/RkQhgxE2PH/46652.mkv
-#EXTINF:0 tvg-id="avi" group-title="VOD ESTRENOS",Spiral: Saw (2021)
+#EXTINF:-1 tvg-id="avi" group-title="VOD ESTRENOS",Spiral: Saw (2021)
 http://xdgo.live:8080/movie/susana1960/RkQhgxE2PH/47341.mkv

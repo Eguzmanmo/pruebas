@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Cell
-http://xdgo.live:8080/susana1960/RkQhgxE2PH/29063
-#EXTINF:0 tvg-id="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Freezer
+#EXTINF:-1 tvg-id="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Cell
+http://xdgo.live:8080/susana1960/RkQhgxE2PH/29063.mkv
+#EXTINF:-1 tvg-id="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Freezer
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/28912
 #EXTINF:0 tvg-id="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Garlick Junior
 http://xdgo.live:8080/susana1960/RkQhgxE2PH/29040

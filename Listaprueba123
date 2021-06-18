@@ -1,55 +1,35 @@
-group,Channels
-ext,167_CANAL_CLAROSPORTS,http://budtvlight.com:25461/pepe/1234/3141
-ext,194_ESPN2_502,http://budtvlight.com:25461/pepe/1234/3167
-DiscoveryKids.mx,Discovery Kids,http://budtvlight.com:25461/pepe/1234/1460
-Nicktoons.uk,NickToons,http://budtvlight.com:25461/pepe/1234/1461
-Tooncast.mx,Tooncast,http://budtvlight.com:25461/pepe/1234/1462
-BABYFIRST.sp,Baby First,http://budtvlight.com:25461/pepe/1234/1463
-Nick2.ar,Nick 2,http://budtvlight.com:25461/pepe/1234/1464
-Tooncast.mx,Tooncast,http://budtvlight.com:25461/pepe/1234/1465
-mgm-int,AMC,http://budtvlight.com:25461/pepe/1234/1466
-CineLatino.mx,Cine Latino,http://budtvlight.com:25461/pepe/1234/1467
-CinemaxO.mx,Cinemax,http://budtvlight.com:25461/pepe/1234/1468
-DePeliculaClasico.us,De Pelicula Clasico,http://budtvlight.com:25461/pepe/1234/1469
-ext,De Pelicula Plus,http://budtvlight.com:25461/pepe/1234/1470
-Golden.mx,Golden,http://budtvlight.com:25461/pepe/1234/1471
-GoldenEdge.mx,Golden Edge,http://budtvlight.com:25461/pepe/1234/1472
-ext,Golden Plus,http://budtvlight.com:25461/pepe/1234/1473
-Hbofamily.br,HBO Family,http://budtvlight.com:25461/pepe/1234/1474
-MaxTV.uk,Max,http://budtvlight.com:25461/pepe/1234/1475
-Maxup.br,MAX UP,http://budtvlight.com:25461/pepe/1234/1476
-Maxprime.br,Max Prime,http://budtvlight.com:25461/pepe/1234/1477
-ext,Morbido,http://budtvlight.com:25461/pepe/1234/1478
-Sundancechannel.hu,Sundance Tv,http://budtvlight.com:25461/pepe/1234/1479
-animal_rus,Animal Planet,http://budtvlight.com:25461/pepe/1234/1480
-DiscoveryCivil.mx,Discovery Civilization,http://budtvlight.com:25461/pepe/1234/1481
-discov_sci,Discovery Science,http://budtvlight.com:25461/pepe/1234/1482
-discov_turbo-extra,Discovery World,http://budtvlight.com:25461/pepe/1234/1483
-food-network-rus,Food Network,http://budtvlight.com:25461/pepe/1234/1484
-FilmArts.ar,Film & Arts,http://budtvlight.com:25461/pepe/1234/1485
-ext,Ingenio Tv,http://budtvlight.com:25461/pepe/1234/1486
-hgtv,HGTV HD,http://budtvlight.com:25461/pepe/1234/1487
-Maschic.mx,Mas Chic,http://budtvlight.com:25461/pepe/1234/1488
-id-extra,Discovery Investigation,http://budtvlight.com:25461/pepe/1234/1489
-ElGourmet.mx,El Gourmet,http://budtvlight.com:25461/pepe/1234/1490
-Glitz.mx,Glitz,http://budtvlight.com:25461/pepe/1234/1491
-tlc-russia,TLC,http://budtvlight.com:25461/pepe/1234/1492
-EuropaEuropa.ar,Europa Europa,http://budtvlight.com:25461/pepe/1234/1493
-DiscoveryTurbo.uk,Discovery Turbo,http://budtvlight.com:25461/pepe/1234/1494
-Pasiones.us,Pasiones,http://budtvlight.com:25461/pepe/1234/1495
-ISat.mx,I sat,http://budtvlight.com:25461/pepe/1234/1496
-TCM.uk,TCM,http://budtvlight.com:25461/pepe/1234/1497
-Canal4Guadalajara.mx,Canal 4 Guadalajara,http://budtvlight.com:25461/pepe/1234/1498
-ext,Televisa Puebla,http://budtvlight.com:25461/pepe/1234/1499
-ext,Mexiquense,http://budtvlight.com:25461/pepe/1234/1500
-ext,Multimedios Saltillo,http://budtvlight.com:25461/pepe/1234/1501
-tvcen,TVC,http://budtvlight.com:25461/pepe/1234/1502
-AZMundo.cl,Az Mundo,http://budtvlight.com:25461/pepe/1234/1503
-AzClic.mx,Az Clic,http://budtvlight.com:25461/pepe/1234/1504
-ext,Canal del Congreso,http://budtvlight.com:25461/pepe/1234/1505
-ext,Televisa Vallevision,http://budtvlight.com:25461/pepe/1234/1506
-ext,Canal 4 Saltillo,http://budtvlight.com:25461/pepe/1234/1507
-ext,TUDN MX,http://budtvlight.com:25461/pepe/1234/1508
-ext,TUDN USA,http://budtvlight.com:25461/pepe/1234/1509
-FoxSports.ar,Fox Deportes,http://budtvlight.com:25461/pepe/1234/1510
-ext,Fox Sports 1 MX,http://budtvlight.com:25461/pepe/1234/1511
+#EXTM3U
+#EXTINF:-1,167_CANAL_CLAROSPORTS
+http://budtvlight.com:25461/pepe/1234/3141
+#EXTINF:-1,194_ESPN2_502
+http://budtvlight.com:25461/pepe/1234/3167
+#EXTINF:-1,Discovery Kids
+http://budtvlight.com:25461/pepe/1234/1460
+#EXTINF:-1,NickToons
+http://budtvlight.com:25461/pepe/1234/1461
+#EXTINF:-1,Tooncast
+http://budtvlight.com:25461/pepe/1234/1462
+#EXTINF:-1,Baby First
+http://budtvlight.com:25461/pepe/1234/1463
+#EXTINF:-1,Nick 2
+http://budtvlight.com:25461/pepe/1234/1464
+#EXTINF:-1,Tooncast
+http://budtvlight.com:25461/pepe/1234/1465
+#EXTINF:-1,AMC
+http://budtvlight.com:25461/pepe/1234/1466
+#EXTINF:-1,Cine Latino
+http://budtvlight.com:25461/pepe/1234/1467
+#EXTINF:-1,Cinemax
+http://budtvlight.com:25461/pepe/1234/1468
+#EXTINF:-1,De Pelicula Clasico
+http://budtvlight.com:25461/pepe/1234/1469
+#EXTINF:-1,De Pelicula Plus
+http://budtvlight.com:25461/pepe/1234/1470
+#EXTINF:-1,Golden
+http://budtvlight.com:25461/pepe/1234/1471
+#EXTINF:-1,Golden Edge
+http://budtvlight.com:25461/pepe/1234/1472
+#EXTINF:-1,Golden Plus
+http://budtvlight.com:25461/pepe/1234/1473
+#EXTINF:-1,HBO Family
+http://budtvlight.com:25461/pepe/1234/1474

@@ -1,35 +1,13 @@
 #EXTM3U
-#EXTINF:-1,167_CANAL_CLAROSPORTS
-http://budtvlight.com:25461/pepe/1234/3141
-#EXTINF:-1,194_ESPN2_502
-http://budtvlight.com:25461/pepe/1234/3167
-#EXTINF:-1,Discovery Kids
-http://budtvlight.com:25461/pepe/1234/1460
-#EXTINF:-1,NickToons
-http://budtvlight.com:25461/pepe/1234/1461
-#EXTINF:-1,Tooncast
-http://budtvlight.com:25461/pepe/1234/1462
-#EXTINF:-1,Baby First
-http://budtvlight.com:25461/pepe/1234/1463
-#EXTINF:-1,Nick 2
-http://budtvlight.com:25461/pepe/1234/1464
-#EXTINF:-1,Tooncast
-http://budtvlight.com:25461/pepe/1234/1465
-#EXTINF:-1,AMC
-http://budtvlight.com:25461/pepe/1234/1466
-#EXTINF:-1,Cine Latino
-http://budtvlight.com:25461/pepe/1234/1467
-#EXTINF:-1,Cinemax
-http://budtvlight.com:25461/pepe/1234/1468
-#EXTINF:-1,De Pelicula Clasico
-http://budtvlight.com:25461/pepe/1234/1469
-#EXTINF:-1,De Pelicula Plus
-http://budtvlight.com:25461/pepe/1234/1470
-#EXTINF:-1,Golden
-http://budtvlight.com:25461/pepe/1234/1471
-#EXTINF:-1,Golden Edge
-http://budtvlight.com:25461/pepe/1234/1472
-#EXTINF:-1,Golden Plus
-http://budtvlight.com:25461/pepe/1234/1473
-#EXTINF:-1,HBO Family
-http://budtvlight.com:25461/pepe/1234/1474
+#EXTINF:-1,MyC - ANIMAL PLANET
+http://tv.nstvlatino.com:8080/cuin/1234/3247
+#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
+http://tv.nstvlatino.com:8080/cuin/1234/3083
+#EXTINF:-1,MyC - DISCOVERY CHANNEL
+http://tv.nstvlatino.com:8080/cuin/1234/3251
+#EXTINF:-1,MyC - HGTV
+http://tv.nstvlatino.com:8080/cuin/1234/3252
+#EXTINF:-1,MyC - DISCOVERY ID
+http://tv.nstvlatino.com:8080/cuin/1234/4123
+#EXTINF:-1,MyC - DISCOVERY SCIENCE
+http://tv.nstvlatino.com:8080/cuin/1234/3082

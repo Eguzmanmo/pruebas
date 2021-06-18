@@ -1,13 +1,169 @@
 #EXTM3U
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.nstvlatino.com:8080/cuin/1234/3247
-#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
-http://tv.nstvlatino.com:8080/cuin/1234/3083
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
-http://tv.nstvlatino.com:8080/cuin/1234/3251
-#EXTINF:-1,MyC - HGTV
-http://tv.nstvlatino.com:8080/cuin/1234/3252
-#EXTINF:-1,MyC - DISCOVERY ID
-http://tv.nstvlatino.com:8080/cuin/1234/4123
-#EXTINF:-1,MyC - DISCOVERY SCIENCE
-http://tv.nstvlatino.com:8080/cuin/1234/3082
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: CANAL DE LAS ESTRELLAS INTERNACIONAL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21735.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: ESTRELLA TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21737.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: ESTRELLA TV NEWS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21738.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: AZTECA UNO
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21739.ts
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Mexico",MX: MAS CHIC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21740.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: IMAGEN TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21741.ts
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Mexico",MX: UNICABLE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21742.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TELEHIT PLUS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21743.ts
+#EXTINF:0 tvg-id="WOBITV.mx" group-title="Mexico",MX: WOBI
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21744.ts
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Mexico",MX: FORO TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21745.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: EL NUEVE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21746.ts
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Mexico",MX: UNICABLE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21747.ts
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Mexico",MX: AZTECA 7
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21748.ts
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Mexico",MX: AZTECA 7
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21749.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: BITME
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21750.ts
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Mexico",MX: FORO TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21751.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: CANAL 5
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21752.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: ADN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21753.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: AZTECA CORAZON
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21754.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: AZTECA MUNDO
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21755.ts
+#EXTINF:0 tvg-id="GalaTV.mx" group-title="Mexico",MX: GALA TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21757.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TL NOVELAS MEXICO
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21758.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TELEVISA MONTERREY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21760.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TELEVISA PUEBLA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21761.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: E! ENTRETENIMIENTO
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21763.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TV MAS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21764.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: MEXIQUICE TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21766.ts
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Mexico",MX: COMEDY CENTRAL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21767.ts
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Mexico",MX: TELEFORMULA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21768.ts
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Mexico",MX: MAS CHIC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21770.ts
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Mexico",MX: MULTIMEDIOS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21771.ts
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Mexico",MX: MULTIMEDIOS PLUS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21772.ts
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Mexico",MX: AYM SPORTS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21775.ts
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Mexico",MX: TVC DEPORTES
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21776.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TUDN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21777.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TUDN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21778.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: AFIZZIONADOS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21779.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: FOX SPORTS 1
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21780.ts
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Mexico",MX: FOX SPORTS 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21781.ts
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Mexico",MX: FOX SPORTS 3
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21782.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: ESPN XTRA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21783.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: ESPN 1
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21784.ts
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Mexico",MX: ESPN 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21785.ts
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Mexico",MX: ESPN 3
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21786.ts
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Mexico",MX: DISTRITO COMEDIA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21787.ts
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Mexico",MX: BANDAMAX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21789.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TELEHIT PLUS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21790.ts
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Mexico",MX: GLITZ
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21791.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Canal 5 Televisa
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21792.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Azteca Cinema
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21793.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Azteca Mundo
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21794.ts
+#EXTINF:0 tvg-id="Fox.mx" group-title="Mexico",MX: Fox
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21795.ts
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Mexico",MX: Fox Action
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21796.ts
+#EXTINF:0 tvg-id="FoxFamilyW.mx" group-title="Mexico",MX: Fox Family
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21797.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Fox Movies
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21799.ts
+#EXTINF:0 tvg-id="FoxLife.mx" group-title="Mexico",MX: Fox Life
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21800.ts
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="Mexico",MX: HBO
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21801.ts
+#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Mexico",MX: HBO Plus
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21802.ts
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Mexico",MX: HBO Signature
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21804.ts
+#EXTINF:0 tvg-id="Golden.mx" group-title="Mexico",MX: Golden
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21805.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Golden Plus
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21806.ts
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Mexico",MX: Cinecanal
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21807.ts
+#EXTINF:0 tvg-id="TNT.mx" group-title="Mexico",MX: TNT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21808.ts
+#EXTINF:0 tvg-id="AXN.mx" group-title="Mexico",MX: AXN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21809.ts
+#EXTINF:0 tvg-id="AMC.mx" group-title="Mexico",MX: AMC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21810.ts
+#EXTINF:0 tvg-id="TCM.mx" group-title="Mexico",MX: TCM
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21811.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: FXM
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21812.ts
+#EXTINF:0 tvg-id="FX.mx" group-title="Mexico",MX: FX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21813.ts
+#EXTINF:0 tvg-id="Space.mx" group-title="Mexico",MX: Space
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21814.ts
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Mexico",MX: Comedy Central
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21815.ts
+#EXTINF:0 tvg-id="Sony.mx" group-title="Mexico",MX: Sony
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21817.ts
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Mexico",MX: Distrito Comedia
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21818.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Nick
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21820.ts
+#EXTINF:0 tvg-id="Boomerang.mx" group-title="Mexico",MX: Boomerang
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21822.ts
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Mexico",MX: Discovery Turbo
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21823.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Discovery Theater
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21824.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Discovery Investigation
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21825.ts
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Mexico",MX: Discovery H&H
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21826.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Discovery World
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21827.ts
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Mexico",MX: NatGeo
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21828.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: History
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21829.ts
+#EXTINF:0 tvg-id="AyE.mx" group-title="Mexico",MX: A&E
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21830.ts
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Mexico",MX: Animal Planet
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21831.ts
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: CANAL 10 CANCUN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/21832.ts
